@@ -35,8 +35,8 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Solution URL: [Stats Preview](https://your-solution-url.com)
-- Live Site URL: [Live](https://your-live-site-url.com)
+- Solution URL: [Stats Preview](https://github.com/aldijoko/stats-preview-card-component)
+- Live Site URL: [Live](https://aldijoko.github.io/stats-preview-card-component/)
 
 ## My process
 
